@@ -1,0 +1,11 @@
+a:hover {
+    font-weight: bold;
+}
+a:active {
+    font-weight: bolder;
+}
+img.icon {
+    width: 55px;
+    height: 55px;
+    margin-left: 55px;
+  }
